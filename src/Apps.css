@@ -1,0 +1,57 @@
+.apps {
+    background-color: rgb(255, 187, 0);
+    padding-left: 650px;
+    padding-right: 650px;
+    min-height: 100vh;
+    justify-content: space-around; /* vertical centering */
+   /* align-items: center;     /* horizontal centering */
+}
+
+/* body, html {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(255, 238, 0);
+} */
+/* h4 {
+   margin-top: 0%;
+    margin-bottom: 0%;
+    margin-left: 0%;
+    background-color: rgb(55, 149, 255);
+    color: rgb(255, 255, 255);
+     text-align-last: right;
+
+} */
+
+button{
+    margin-left: 37px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    background-color: rgb(0, 255, 0);
+
+}
+.baground{
+    background-color: white;
+    color: black;
+    border-radius: 20px;
+    border-color: black;
+    border-style: solid;
+    box-shadow: 2px 2px 2px 2px ;
+    padding: 20px;
+}
+
+input{
+    background-color: rgb(211, 211, 211);
+    color: black;
+}
+    
+p{
+    margin: 10px;
+}
+img{
+    height: 90px;
+    width: 90px;
+    padding-top: 20px;
+    margin-left: 35px;
+}
